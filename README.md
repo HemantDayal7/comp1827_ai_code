@@ -26,12 +26,4 @@ Comp1827_AI_code/
    cd Comp1827_AI_code
    ```
 
-## Contribution Guidelines
-- Ensure you follow the guidelines for your individual and group tasks.
-- Commit changes regularly and write clear commit messages.
-- Push your changes to the repository.
-
-## Submission
-- The individual report should be submitted in PDF format using the provided LaTeX template.
-```
 
